@@ -1,0 +1,15 @@
+{
+  "repository": "module-music-video-timecode-react-native",
+  "capabilityKey": "liberusoftware/music-video-timecode",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-music-video-timecode-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/music/nextjs/video-timecode.md",
+  "presentationPlan": "projects/music/react-native/video-timecode.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "music"
+  ]
+}
